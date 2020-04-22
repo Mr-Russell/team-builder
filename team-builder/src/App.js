@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import TeamMember from './components/TeamMember.js';
 import Form from './components/Form.js'
-import styled from 'styled-components'
 import './App.css';
 
 const ogMembers = [

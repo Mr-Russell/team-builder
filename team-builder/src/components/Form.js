@@ -2,8 +2,11 @@ import React from 'react';
 import styled from 'styled-components';
 
 const FormStyle = styled.div`
-    border: 2px soild grey;
-    margin-top: 5px;
+    border: 5px solid gray;
+    width: 300px;
+    margin-top: 50px;
+    justify-content: center;
+    padding: 0 2% 2% 2%;
 `;
 
 
